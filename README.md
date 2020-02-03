@@ -1,6 +1,6 @@
 # Platformer2D
 
-Notre projet consiste à développer un jeu de plateforme 2D de type arcade.
+Notre projet consiste à développer un jeu de plateforme 2D de type endless runner.
 
 ## Membres du projet
 
