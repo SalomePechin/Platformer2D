@@ -199,7 +199,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6049808}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -18.97, y: 4.1, z: -2.2322094}
+  m_LocalPosition: {x: -19.52, y: 4.1, z: -2.2322094}
   m_LocalScale: {x: 0.71325, y: 0.75, z: 1}
   m_Children:
   - {fileID: 1334310013}
@@ -219,18 +219,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -1.8624231, y: 1.623887}
+  m_Offset: {x: -0.15558779, y: 1.5870112}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 1, y: 0}
-    oldSize: {x: 4.2, y: 3.2310138}
+    pivot: {x: 0.37, y: 0}
+    oldSize: {x: 3.75, y: 3.2210107}
     newSize: {x: 3.82, y: 3.2310138}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 3.7966087, y: 3.2134569}
+  m_Size: {x: 1.9346066, y: 3.1397054}
   m_EdgeRadius: 0
 --- !u!50 &6049812
 Rigidbody2D:
@@ -520,7 +520,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 111970951}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -28.228, y: -3.682, z: 0}
+  m_LocalPosition: {x: -28.228, y: -3.682, z: -3}
   m_LocalScale: {x: 1.576, y: 1.254, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -641,7 +641,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 32.9, y: 23.52}
+  m_SizeDelta: {x: 35.6, y: 30.26}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &182936627
 MonoBehaviour:
@@ -1556,7 +1556,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 626949341}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -19.556, y: -3.713, z: 0}
+  m_LocalPosition: {x: -19.556, y: -3.713, z: -3}
   m_LocalScale: {x: 1.245, y: 1.217, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1597,7 +1597,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 11.76}
+  m_SizeDelta: {x: 202.36, y: 23.52}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &638814002
 MonoBehaviour:
@@ -1970,7 +1970,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 794406239}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 9.93, y: -3.24, z: 0}
+  m_LocalPosition: {x: 9.93, y: -3.24, z: -3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -2089,7 +2089,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
   m_AnchoredPosition: {x: -1.2000122, y: 1.2000122}
-  m_SizeDelta: {x: 45.18, y: 15.07}
+  m_SizeDelta: {x: 53.3, y: 15.1}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &945749120
 MonoBehaviour:
@@ -2517,9 +2517,9 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.99, y: 1.265}
+  m_Offset: {x: -0.99, y: 1.0806724}
   m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
+    border: {x: 0, y: 0, z: 0, w: 0.35999998}
     pivot: {x: 1, y: 0}
     oldSize: {x: 1.98, y: 2.53}
     newSize: {x: 1.98, y: 2.53}
@@ -2528,7 +2528,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.98, y: 2.53}
+  m_Size: {x: 1.98, y: 2.1613448}
   m_EdgeRadius: 0
 --- !u!1 &1102542027
 GameObject:
@@ -2829,7 +2829,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -11.76}
+  m_AnchoredPosition: {x: 0, y: -23.52002}
   m_SizeDelta: {x: 116.86, y: 11.76}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1341728057
@@ -2863,7 +2863,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Score:'
+  m_Text: 'Score: 12'
 --- !u!222 &1341728058
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2919,7 +2919,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 0, y: -23.519997}
+  m_AnchoredPosition: {x: 0, y: -35.280018}
   m_SizeDelta: {x: 138.29999, y: 11.76}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1401590470
@@ -2953,7 +2953,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Highscore:'
+  m_Text: 'Highscore: 2000000503
+
+'
 --- !u!222 &1401590471
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3663,7 +3665,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1905146708}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.83, y: -3.68, z: 0}
+  m_LocalPosition: {x: -2.83, y: -3.68, z: -3}
   m_LocalScale: {x: 1.759, y: 1.457, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
