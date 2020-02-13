@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 566}
   m_MaxSize: {x: 18008, y: 14044}
   vertical: 0
-  controlID: 97
+  controlID: 121
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 566}
   m_MaxSize: {x: 4004, y: 12066}
   vertical: 1
-  controlID: 98
+  controlID: 122
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -527,20 +527,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Ressources/Sprites/environment
+    - Assets/Ressources/Sprites/bonus
   m_ViewMode: 1
   m_StartGridSize: 57
   m_LastFolders:
-  - Assets/Ressources/Sprites/environment
+  - Assets/Ressources/Sprites/bonus
   m_LastFoldersGridSize: 57
   m_LastProjectPath: C:\Users\2001096\Desktop\Platformer2D\Space Knight Alien Invasion
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 60}
-    m_SelectedIDs: 4a320000
-    m_LastClickedID: 12874
-    m_ExpandedIDs: 000000005e2d00004e2e0000b82f0000523200006432000000ca9a3b
+    m_SelectedIDs: a62e0000
+    m_LastClickedID: 11942
+    m_ExpandedIDs: 000000005e2d00004e2e0000b82f0000503200006232000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -568,7 +568,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000005e2d00004e2e0000b82f00005232000064320000
+    m_ExpandedIDs: 000000005e2d00004e2e0000b82f00005032000062320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -596,7 +596,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000802f00007c2e00001c340000d42e0000843300005a340000962f0000122e000000330000da33000066310000a831000072330000902d00002e320000d63000009a3200000a2e0000
+    m_ExpandedInstanceIDs: c6230000802f00007c2e00001c340000d42e0000843300005a340000962f0000122e000000330000da33000066310000a831000072330000902d00002e320000d63000009a3200000a2e0000c4320000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -620,7 +620,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 4681}
+    m_ScrollPosition: {x: 0, y: 120}
     m_GridSize: 57
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 138
@@ -653,9 +653,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 4298ffff
-      m_LastClickedID: -26558
-      m_ExpandedIDs: 72fbffff96330000
+      m_SelectedIDs: aafaffff
+      m_LastClickedID: -1366
+      m_ExpandedIDs: 72fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -741,9 +741,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.026633024, y: -10.186359, z: -109.379196}
+    m_Target: {x: -12.380388, y: -0.13732323, z: -112.59277}
     speed: 2
-    m_Value: {x: 0.026633024, y: -10.186359, z: -109.379196}
+    m_Value: {x: -12.380388, y: -0.13732323, z: -112.59277}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -776,9 +776,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 37.82333
+    m_Target: 8.16731
     speed: 2
-    m_Value: 37.82333
+    m_Value: 8.16731
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -896,4 +896,4 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 28
