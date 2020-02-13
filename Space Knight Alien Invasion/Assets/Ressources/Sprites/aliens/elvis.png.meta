@@ -143,7 +143,7 @@ TextureImporter:
         height: 253
       alignment: 8
       pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 36}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -158,13 +158,13 @@ TextureImporter:
       name: elvis_Iddle1
       rect:
         serializedVersion: 2
-        x: 460
+        x: 461
         y: 724
         width: 198
         height: 226
       alignment: 8
       pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 33}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -185,7 +185,7 @@ TextureImporter:
         height: 196
       alignment: 8
       pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 27}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -206,7 +206,7 @@ TextureImporter:
         height: 226
       alignment: 8
       pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 33}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -227,7 +227,7 @@ TextureImporter:
         height: 253
       alignment: 8
       pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 36}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -353,7 +353,7 @@ TextureImporter:
         height: 253
       alignment: 8
       pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 35}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -374,7 +374,7 @@ TextureImporter:
         height: 196
       alignment: 8
       pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 27}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -395,7 +395,7 @@ TextureImporter:
         height: 255
       alignment: 8
       pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 30, z: 0, w: 31}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -416,7 +416,7 @@ TextureImporter:
         height: 253
       alignment: 8
       pivot: {x: 1, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 0, y: 0, z: 0, w: 36}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -431,10 +431,10 @@ TextureImporter:
       name: elvis_Moove4
       rect:
         serializedVersion: 2
-        x: 1801
+        x: 1800
         y: 7
         width: 198
-        height: 253
+        height: 252
       alignment: 8
       pivot: {x: 1, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
