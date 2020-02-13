@@ -15,12 +15,12 @@ public class CameraMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-      transform.position = new Vector3(character.transform.position.x + 4.5f, transform.position.y, -10);
+      transform.position = new Vector3(character.transform.position.x + 4.5f, transform.position.y, -4.0f);
       if(character.transform.position.y > upLimit + this.transform.position.y){
         transform.position = new Vector3(transform.position.x, Mathf.Lerp(transform.position.y, character.transform.position.y, 0.09f), transform.position.z);
       }
-      if(character.transform.position.y < this.transform.position.y - 2.6895f){
-        transform.position = new Vector3(transform.position.x, character.transform.position.y + 2.6895f, transform.position.z);
+      if(character.transform.position.y < this.transform.position.y - 3.6f){
+        transform.position = new Vector3(transform.position.x, character.transform.position.y + 5.5f, transform.position.z);
       }
     }
 }

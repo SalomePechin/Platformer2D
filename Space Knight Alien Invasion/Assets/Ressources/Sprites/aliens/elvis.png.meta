@@ -1,7 +1,61 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 34efa307328466540aca8dfe0e53db41
 TextureImporter:
   internalIDToNameTable: []
+=======
+guid: 73b6237cef939334a993d2fdcf14711f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4383114548914207763
+    second: elvis_Iddle0
+  - first:
+      213: -5832095691239635446
+    second: elvis_Iddle1
+  - first:
+      213: -6671231678812230777
+    second: elvis_Iddle2
+  - first:
+      213: -4390542882286314029
+    second: elvis_Iddle3
+  - first:
+      213: 6007145970069386165
+    second: elvis_Iddle4
+  - first:
+      213: 7776783649346173153
+    second: elvis_Death0
+  - first:
+      213: -1981072024379057731
+    second: elvis_Death1
+  - first:
+      213: -932963115305696115
+    second: elvis_Death2
+  - first:
+      213: -5917646334895934591
+    second: elvis_Death3
+  - first:
+      213: 8527474968242934971
+    second: elvis_9
+  - first:
+      213: 4137845942381679756
+    second: elvis_Death4
+  - first:
+      213: -5727438919451685414
+    second: elvis_Moove0
+  - first:
+      213: -6920327258753688473
+    second: elvis_Moove1
+  - first:
+      213: 7249628494750266370
+    second: elvis_Moove2
+  - first:
+      213: -7131059322432367347
+    second: elvis_Moove3
+  - first:
+      213: 8631354120212330762
+    second: elvis_Moove4
+>>>>>>> ff63d67d81ef89ea008ba4992d434a3a1d9d20cb
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +94,11 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
+<<<<<<< HEAD
   spriteMode: 1
+=======
+  spriteMode: 2
+>>>>>>> ff63d67d81ef89ea008ba4992d434a3a1d9d20cb
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -70,9 +128,342 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
   spriteSheet:
     serializedVersion: 2
     sprites: []
+=======
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elvis_Iddle0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 723
+        width: 198
+        height: 253
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b744fcd4116d2a448b14a2eeb37692f3
+      internalID: -4383114548914207763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_Iddle1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 724
+        width: 198
+        height: 226
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e776e1e4490bda74d8e6d46d7b892b2f
+      internalID: -5832095691239635446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_Iddle2
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 723
+        width: 198
+        height: 196
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2675bbc540beedb428aaaae586adb298
+      internalID: -6671231678812230777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_Iddle3
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 725
+        width: 198
+        height: 226
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97fb74f1dfe01343a80f7095624e056
+      internalID: -4390542882286314029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_Iddle4
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 725
+        width: 198
+        height: 253
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47455275e2db31f40860397d8af44893
+      internalID: 6007145970069386165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_Death0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 355
+        width: 198
+        height: 253
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8b5f832dbc66c43a9bc0aeea54d4ab
+      internalID: 7776783649346173153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_Death1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 354
+        width: 198
+        height: 258
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be28e5a06068c3b418b7f26560e8e9bc
+      internalID: -1981072024379057731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_Death2
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 353
+        width: 198
+        height: 265
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1abec93fc472c54ebaac70ae19fbde3
+      internalID: -932963115305696115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_Death3
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 355
+        width: 198
+        height: 199
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e5b18aa017cea499ed2056b7cc98d8
+      internalID: -5917646334895934591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_Death4
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 356
+        width: 178
+        height: 151
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d651642ff71e34438c2a9dbd7469bb5
+      internalID: 4137845942381679756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_Moove0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 8
+        width: 198
+        height: 253
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb411074fa76d654c8b7c5bd3ccd4726
+      internalID: -5727438919451685414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_Moove1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 9
+        width: 198
+        height: 196
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62811da380c1144cb04d2e39543a997
+      internalID: -6920327258753688473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_Moove2
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 19
+        width: 198
+        height: 255
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dd41906e5e95444993783424683634
+      internalID: 7249628494750266370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_Moove3
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 51
+        width: 198
+        height: 253
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30144d50699143e48839e44ed88aac86
+      internalID: -7131059322432367347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_Moove4
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 7
+        width: 198
+        height: 253
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077f0f0decace0d4c8eb387a711e16e1
+      internalID: 8631354120212330762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+>>>>>>> ff63d67d81ef89ea008ba4992d434a3a1d9d20cb
     outline: []
     physicsShape: []
     bones: []
