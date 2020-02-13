@@ -19,16 +19,16 @@ public class EnnemiBehavior : MonoBehaviour
     }
 
     // Update is called once per frame
-    void FixedUpdate()
+    void Update()
     {
       if (isInRangeX()) {
-        Debug.Log("X");
+        //Debug.Log("X");
       }
       if (isInRangeY()) {
-        Debug.Log("Y");
+        //Debug.Log("Y");
       }
       if (isInRange()){
-        Debug.Log("IL EST A PORTEE");
+        //Debug.Log("IL EST A PORTEE");
       }
       if(isInRange()){
         this.animator.Play("EnnemieDeath");
