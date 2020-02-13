@@ -58,14 +58,15 @@ public class PauseMenu : MonoBehaviour
     }
     public void Control()//aller au menu des commandes
     {
-
+        Debug.Log("Commandes");
     }
     public void Rules()//aller menu des règles du jeu
     {
-
+        Debug.Log("Règles");
     }
     public void Quit()//quitter le jeu
     {
-        Application.Quit();
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        Debug.Log("Quitter la partie");
     }
 }
