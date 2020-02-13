@@ -1,4 +1,4 @@
-# Platformer2D
+# Space Knight: Alien Invasion
 
 Notre projet consiste à développer un jeu de plateforme 2D de type endless runner !
 
