@@ -1,0 +1,466 @@
+fileFormatVersion: 2
+guid: 34efa307328466540aca8dfe0e53db41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4383114548914207763
+    second: elvis_0
+  - first:
+      213: -5832095691239635446
+    second: elvis_1
+  - first:
+      213: -6671231678812230777
+    second: elvis_2
+  - first:
+      213: -4390542882286314029
+    second: elvis_3
+  - first:
+      213: 6007145970069386165
+    second: elvis_4
+  - first:
+      213: 7776783649346173153
+    second: elvis_5
+  - first:
+      213: -1981072024379057731
+    second: elvis_6
+  - first:
+      213: -932963115305696115
+    second: elvis_7
+  - first:
+      213: -5917646334895934591
+    second: elvis_8
+  - first:
+      213: 8527474968242934971
+    second: elvis_9
+  - first:
+      213: 4137845942381679756
+    second: elvis_10
+  - first:
+      213: -5727438919451685414
+    second: elvis_11
+  - first:
+      213: -6920327258753688473
+    second: elvis_12
+  - first:
+      213: 7249628494750266370
+    second: elvis_13
+  - first:
+      213: -7131059322432367347
+    second: elvis_14
+  - first:
+      213: 8631354120212330762
+    second: elvis_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elvis_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 723
+        width: 198
+        height: 253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a969a539a14aa4ba9dcd2514d12ad3
+      internalID: -4383114548914207763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 724
+        width: 198
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca427310b5adf0b43bb7b857df4e41b7
+      internalID: -5832095691239635446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_2
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 723
+        width: 198
+        height: 196
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8950097d8cf4124409c34201b5d79698
+      internalID: -6671231678812230777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_3
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 725
+        width: 198
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282e0be315c94c943b247655943a823b
+      internalID: -4390542882286314029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_4
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 725
+        width: 198
+        height: 253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5be9fc947b74948aeb1d6a73a5fc07
+      internalID: 6007145970069386165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 355
+        width: 198
+        height: 253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cf8df986e674d42bcccf4db8dd7aa5
+      internalID: 7776783649346173153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_6
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 354
+        width: 198
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6806b05a64e8274692ea72cd70eb746
+      internalID: -1981072024379057731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_7
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 353
+        width: 198
+        height: 265
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8450a295f8bdbb4fae214bf37142edb
+      internalID: -932963115305696115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_8
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 355
+        width: 198
+        height: 199
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305a0b3973abb439e62a60de1a3cab
+      internalID: -5917646334895934591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_10
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 356
+        width: 178
+        height: 152
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6af1485b90e274389a7acca6b09c0f
+      internalID: 4137845942381679756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 8
+        width: 198
+        height: 253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b5ec32e575b1f439ee6dd4b21c078e
+      internalID: -5727438919451685414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_12
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 9
+        width: 198
+        height: 196
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ee26cdf76ee574daec002c6b5ecf3a
+      internalID: -6920327258753688473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_13
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 19
+        width: 198
+        height: 255
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfd5dc1208e95b4f9bb6be1d298dbc3
+      internalID: 7249628494750266370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_14
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 27
+        width: 198
+        height: 278
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413586c234166814595925daf234f89b
+      internalID: -7131059322432367347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elvis_15
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 7
+        width: 198
+        height: 253
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83c6dd27646d4b48aa074cce928ebea
+      internalID: 8631354120212330762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
